@@ -1,0 +1,11 @@
+#root{
+    background: #7bb2f9 !important;
+    height: 100% !important;
+    width: 100% !important;
+}
+.card{
+    border-radius: 14px;
+background: #7bb2f9;
+box-shadow:  12px 12px 36px #70a2e3,
+             -12px -12px 36px #86c2ff;
+}
